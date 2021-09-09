@@ -9,7 +9,7 @@ Sınırsız: 600 - isterseniz telegram + whatsapp grubuna ekleneceksiniz
 iban: TR08 0001 0004 5806 3979 3350 04
 paparadan ödeme yapmak için:
 Para Transferi>Para Gönder>Papara No/IBAN
-ininalden ödeme yapmak için: para gönder->banka hesabına transfer->yeni transfer
+ininalden ödeme yapmak için: para gönder->banka hesabına transfer->yeni transfer  || ibanı biliyosunuz zaten, alıcı ad soyad: Yusuf Can İşlek, tutar tutar zaten açıklama void
 
 İndirimli fiyatlar:
 Haftalık: 70
@@ -18,7 +18,7 @@ Sınırsız: 450 - isterseniz telegram + whatsapp grubuna ekleneceksiniz
 iban: TR08 0001 0004 5806 3979 3350 04
 paparadan ödeme yapmak için:
 Para Transferi>Para Gönder>Papara No/IBAN
-ininalden ödeme yapmak için: para gönder->banka hesabına transfer->yeni transfer
+ininalden ödeme yapmak için: para gönder->banka hesabına transfer->yeni transfer || ibanı biliyosunuz zaten, alıcı ad soyad: Yusuf Can İşlek, tutar tutar zaten açıklama void
 
 Referans sistemi: (Hile çıktıktan sonra aktif olacak)
 Hileyi kullanan bir arkadaşınızı referans göstererek indirimli fiyattan alabilirsiniz. Arkadaşınız haftalık aldıysa 3 gün aylık aldıysa 1 hafta eklenecektir.
