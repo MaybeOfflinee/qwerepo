@@ -1,16 +1,25 @@
-Void ön ödeme başladı, bu fiyatlar indirimlidir, ön ödeme bitince normal fiyatlara dönülecektir
-İndirimli fiyatlar:
-Haftalık: 70
-Aylık: 210
-Sınırsız: 450
-iban: TR08 0001 0004 5806 3979 3350 04
+Void ön ödeme başladı ön ödeme bitince normal fiyatlara dönülecektir. Ön ödeme sürecinde hileyi alırsanız hemen kurulmayacak. Hilenin çıkmasıyla beraber (cumartesi veya daha erken) kurulacak. 
 
+ÖN ÖDEME SÜRECİNDE İNDİRİMLİ FİYATTAN ALACAKSINIZ.
 Normal fiyatlar
 
 Haftalık: 100
-Aylık: 300
-Sınırsız: 600
+Aylık: 300 - isterseniz telegram grubuna ekleneceksiniz
+Sınırsız: 600 - isterseniz telegram + whatsapp grubuna ekleneceksiniz
 iban: TR08 0001 0004 5806 3979 3350 04
+
+İndirimli fiyatlar:
+Haftalık: 70
+Aylık: 210 - isterseniz telegram grubuna ekleneceksiniz
+Sınırsız: 450 - isterseniz telegram + whatsapp grubuna ekleneceksiniz
+iban: TR08 0001 0004 5806 3979 3350 04
+
+Referans sistemi: (Hile çıktıktan sonra aktif olacak)
+Hileyi kullanan bir arkadaşınızı referans göstererek indirimli fiyattan alabilirsiniz. Arkadaşınız haftalık aldıysa 3 gün aylık aldıysa 1 hafta eklenecektir.
+Sınırsız aldıysa:
+-Haftalık alırsanız 3 gün size eklenecek
+-Aylık alırsanız 1 hafta size eklenecek
+
 
 Ön gereksinimler
 
