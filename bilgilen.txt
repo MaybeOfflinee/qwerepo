@@ -1,0 +1,57 @@
+Void ön ödeme başladı, bu fiyatlar indirimlidir, ön ödeme bitince normal fiyatlara dönülecektir
+Haftalık: 70
+Aylık: 250
+Sınırsız: 500
+iban: TR08 0001 0004 5806 3979 3350 04
+
+Ön gereksinimler
+
+- PC isminizde boşluk olmamasına dikkat ediniz. CMD'yi açın ve users dan sonra gelen şeyde boşluk var mı dikkat edin örnek : https://cdn.discordapp.com/attachments/838889042514935849/839038514959089704/Ekran_Alnts.PNG
+- Windows 8.1 desteklemiyor.
+- Javanız yüklü olsun https://java.com/
+
+Satın aldıktan sonra
+
+- https://cdn.discordapp.com/attachments/838889042514935849/839037545614016532/ID.bat
+- Yukardaki linkten ID.bat ı indirip açınız ve bana özelden ID'nizi gönderiniz ve size lisans kodunu atmamı bekleyiniz.
+
+Kurulum
+
+- Dosyaları indirdikten sonra winrardan masaüstüne çıkartın.
+- Java versionu 281 veya 291 olması lazım java versionunuzu CMD ye "java -version" yazarak kontrol edebilirsiniz.
+- Uygulamayı açın ve register bölümüne tıklayın, burada kullanıcı ismi ve şifre voidin kendi datasına kaydoluyor craftrise ile alakasızdır. License bölümü yerinede siz verilen lisansı yazınız ve registere basınız.
+- Başlat butonu geldiğinde kaydınız tamamlanmış demektir ve buraya craftrise hesabınızı ve şifrenizi giriniz RAM bölümüne sırasıyla : 
+
+  1024 -> 1 GB Ram
+  2048 -> 2 GB Ram
+  4096 -> 4 GB Ram
+  
+ve katları...
+
+- GIF Size gifli cape özelliğini kullanabilmeniz için eklenmiştir orayı isterseniz boş bırakabilirsiniz aşşağı kısımda gif kurulumu bölümünde ayrıntılı bir şekilde anlatacağım.
+- Ardından başlata basıp girişinizi sağlayabilirsiniz.
+
+GIF Yükleme
+
+- İnternetten sevdiğiniz bir gifi alıp launcherın bulunduğu klasöre atınız.
+- İlk defa gifi yüklüyorsanız GIF Yükle butonuna basınız eskiden olan bir gifin üstüne yüklüyorsanız önce GIF Sil yapın ardından GIF Yükle yapın.
+- GIF Size yerine 12,17 yazın formatı şu şekilde genişlik,uzunluk.
+
+Bilinen Hatalar
+
+- 2 tane java bulundu veya javanız doğrulanamadı hatası 1 den fazla javanız bulunduğunda veya javanızın sürümü uyuşmadığından verir bunu tüm javaları silip https://java.com/ dan yenisini indirerek çözebilirsiniz.
+- Özel durum hatası alanlar çalıştırdan "C:\Windows\System32\drivers\etc" bu yola gitsin ve hosts dosyasına sağ tıklayıp özelliklere tıklaın ve güvenlik bölümüne gelip tam denetim veriniz.
+- Java Virtual Machine Launcher başlığında hata alanlar RAM'a 1024 verip denesin.
+- Bazı bilgisayarlarda oyun tam ekran başlayınca siyah ekran oluyor olan kişiler pencereli başlatsın.
+
+Oyun içi gerekli bilgiler
+
+- Kozmetiklere erişmek için ".cosmetic list" yazınız. Örnek kozmetik : ".cosmetic wing dragon"<
+- Minebot (otomatik maden kasma) oyuna girin Y kordinatınız 30 olana kadar kazın ve "/minebot mine (maden ismi)" örnek olarak "/minebot mine diamond_ore" elmas kasmak için.
+- SAĞ SHİFT ile özellikleri görebilirsiniz. SOL TIKLAYARAK modülleri açabilirsiniz SAĞ TIKLAYARAK modülleri ayarlayabilirsiniz. ORTA TUŞ ile tuş ataması yapabilirsiniz.
+
+Spotify Özelliği
+
+- Öncellikle spotifyınızın premium olması lazım. Doğruladıktan sonra oyun içinde NOKTA tuşuna basınız sizi bir linke atacak.
+- Gelen linke ilk defa girdiyseniz kabul et e basınız ilk defa girmiyorsanız github linkine aktaracaktır bu github linkini tamamını kopyalayınız.
+- Kopyaladıktan sonra oyun chatine "/verify" yazınız ve tekrardan NOKTA tuşuna basıp müziğinizi dinleyebilirsiniz.
