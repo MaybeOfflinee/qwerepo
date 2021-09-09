@@ -1,4 +1,5 @@
 Void ön ödeme başladı, bu fiyatlar indirimlidir, ön ödeme bitince normal fiyatlara dönülecektir
+İndirimli fiyatlar:
 Haftalık: 70
 Aylık: 210
 Sınırsız: 450
