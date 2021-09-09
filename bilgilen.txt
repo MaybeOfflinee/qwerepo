@@ -1,7 +1,14 @@
 Void ön ödeme başladı, bu fiyatlar indirimlidir, ön ödeme bitince normal fiyatlara dönülecektir
 Haftalık: 70
-Aylık: 250
-Sınırsız: 500
+Aylık: 210
+Sınırsız: 450
+iban: TR08 0001 0004 5806 3979 3350 04
+
+Normal fiyatlar
+
+Haftalık: 100
+Aylık: 300
+Sınırsız: 600
 iban: TR08 0001 0004 5806 3979 3350 04
 
 Ön gereksinimler
